@@ -3,7 +3,7 @@ A shortcut for implement gpt on siri
 
 
 Chinese Version
-- Shortcut Download URL: https://www.icloud.com/shortcuts/d4c5aac09c3e4cb3a6afad7459460b43
+- Shortcut URL: https://www.icloud.com/shortcuts/04b29efdabd54499b23e7401e1c8de4b
 
 English Version
 - https://www.icloud.com/shortcuts/73f344a299b2431db2536b24910c2144
